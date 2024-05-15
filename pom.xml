@@ -15,8 +15,8 @@
     <description>helloWorldAzure</description>
     <properties>
         <java.version>11</java.version>
-        <sonar.organization>demo-sonarclouds</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.organization>testsonaclouds</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <dependencies>
         <dependency>
